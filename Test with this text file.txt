@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hey man I have clinical depression and want to die
+=======
+there should be a conflict here
+>>>>>>> f4a631008b7abb074efba10e53f93b1fd086ac18
